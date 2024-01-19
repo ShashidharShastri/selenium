@@ -55,3 +55,4 @@ To execute the test cases with [video recording](http://automation-remarks.com/v
 ###### **Note:**
 1. Video recording works well only on local and non parallel execution mode as the video recorder captures the screen.
 2. As screen action is been captured by video recorder don't perform any action on screen while test is executing.
+3. updated
